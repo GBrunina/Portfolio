@@ -1,4 +1,4 @@
-[Back to main page](./../README.md)
+[Back to main page](./../index.md)
 
 <h1 align="center">Education</h1>
 <table>
@@ -15,4 +15,4 @@
 
 </table>
 
-[Back to main page](./../README.md)
+[Back to main page](./../index.md)
