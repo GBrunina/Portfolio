@@ -1,6 +1,6 @@
 <h1>Introduction</h1>
 <br><br> 
-In the summer of 2011 I became a Tier 1 Support Representative as the 20th hire at a small software company. 
+In the summer of 2011, I became a Tier 1 Support Representative as the 20th hire at a small software company. 
 It became apparent right away that I was stuck answering the same questions again and again. We had 50-page guides that would answer all of the user's questions (and more)
 but they weren't reading them. There needed to be a change, and I made it my mission (and career). 
 <br><br>
@@ -16,4 +16,4 @@ The intention of this blog is to teach you the following:
 <ul>Review your current content and process</ul>
 <ul>Create the best customer help experience, and maintain it</ul>
 <br><br>
-Ready to get started? Click here.
+Ready to get started? <a href="Getting Started.md">Click here.</a>
