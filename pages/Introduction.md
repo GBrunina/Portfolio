@@ -12,8 +12,8 @@ From then on, I was promoted to "Technical Writer" and dedicated my career to re
 Since the first audit and revamp, I have successfully used the method that I will be sharing with you to evaluate dozens of support centers, which now act as Tier 1 Support.
 <br><br>
 The intention of this blog is to teach you the following:
-<ul>Discover why content engineering is so important</ul>
-<ul>Review your current content and process</ul>
-<ul>Create the best customer help experience, and maintain it</ul>
+-<ul>Discover why content engineering is so important</ul>
+-<ul>Review your current content and process</ul>
+-<ul>Create the best customer help experience, and maintain it</ul>
 <br><br>
 Ready to get started? <a href="Getting Started.md">Click here.</a>
