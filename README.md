@@ -1,8 +1,6 @@
 <header>
 
-# Grace Brunina
-
-_Portfolio_
+# Stress Free Self Service
 
 </header>
 
@@ -18,7 +16,7 @@ If you were to ask people about me, they would probably say "She's the knower of
 I love to turn chaos into order and spin hay into gold with language. 
 
 ### Learn More
-- <a href="./pages/education.md">Education</a>
+- <a href="./pages/introduction.md">Introduction</a>
 - <a href="./pages/experience.md">Experience</a>
 
 ### Contact Me
